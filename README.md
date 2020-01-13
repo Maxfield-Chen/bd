@@ -1,6 +1,6 @@
 # bd - Bread Diary!
 
-### A CLI application intended to help bakers tweak recipes and track successful bakes.
+### A CLI application intended to help bakers tweak recipes and track successful bakes
 
 As both a novice baker I frequently find myself trying new recipes or altering variables in familiar recipes in order to achieve "better" bakes. This tinkering is haphazard and is difficult to draw general patterns from since I don't collect data about each attempt in a structured manner.
 
